@@ -44,3 +44,8 @@
     name = "CV"
     url = "files/clarke_resume.pdf"
     weight = 80
+
+    [[main]]
+      name = "Blog"  # Title of the link.
+      url = "landing/"  # Widget Page folder name.
+      weight = 90
