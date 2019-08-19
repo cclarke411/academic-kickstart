@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thoughtasa ystem"
+title: "Thoughtaasystem"
 subtitle: ""
 summary: ""
 authors: []
